@@ -1,0 +1,27 @@
+{
+    "PRODUCTS": [
+        {
+            "code": "H01",
+            "idcategory": "2",
+            "productName": "iphone 15 promax 528gb",
+            "material": "Cotons",
+            "price": "30000000",
+            "amount": "10",
+            "entry": "2019-11-04",
+            "image": "iphone.jpg"
+        },
+        {
+            "code": "H02",
+            "idcategory": "2",
+            "productName": "zlip",
+            "material": "Cotons",
+            "price": "14000000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "samsung.jpg"
+        }
+        
+    ],
+    "ACCOUNTS": [],
+    "ORDERS": []
+}
